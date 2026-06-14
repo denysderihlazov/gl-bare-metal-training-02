@@ -28,4 +28,4 @@ STM32F407 project implementing LED blinking schemes controlled by buttons using 
 
 ## Demo Video
 
-Link will be added later.
+[Video](https://www.youtube.com/watch?v=A6xqwMSrkNs)
